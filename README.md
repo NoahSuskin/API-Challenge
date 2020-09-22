@@ -1,6 +1,5 @@
 # API-Challenge
 
-Packages Used: Pandas, Matplotlib, gmaps, requests, scipy, datetime, citipy
 Data Sources: OpenWeatherMap API & Google Places API
 
 # Instructions
